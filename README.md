@@ -1,68 +1,61 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (RESCUE THE EGG)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Rescue the egg
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Maria Moles Marfil
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto se trata de un videojuego, donde los jugadores interactúan con el personaje principal y conducen un coche para poder rescatar al huevo.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Videojuego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 600x400px tamaño fijo
 
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Github
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+La historia de mi videojuego trata de que; una noche, un ladrón entra en una granja con la intención de robar los huevos de las gallinas, éstas se despiertan y van a por él, pero aun así consigue robar un huevo. Las gallinas están tras una verja y no pueden salir, pero uno de los pollitos si, y va en busca del huevo con su coche, el cuál manejará el jugador.
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+[Storyboard- Maria Moles.pdf](https://github.com/molesmarfil/molesmarfil.github.io/files/8872724/Storyboard-.Maria.Moles.pdf)
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![Esquema de navegación](https://user-images.githubusercontent.com/106830372/172912079-8eb20b06-931d-464f-b047-d05f522d7d48.jpg)
 
 
 
 # 3. Metodología
+
+- Realización de eventos a partir de utilizar teclas de ratón:  
+Utilizo las teclas (flechas derecha e izquierda) para mover el coche hacia los lados.
+
+- Fondo infinito: 
+Lo utilizo para la carretera del nivel 1.
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
