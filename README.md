@@ -63,17 +63,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+**Investigación de campo**
+Para saber cómo funcionaba un videojuego investigué jugando a otros.  Tenía especial interés por los que giraran en torno a conducir vehículos y esquivar objetos, de esa forma pude ver muchos ejemplos de cómo organizar los niveles, instrucciones, etc.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Como motivación principal tenía la de hacer un videojuego basado en una de mis películas favoritas de la infancia, y poder así hacer que los jugadores conozcan una parte de mí.
 
 
 **Publico / audiencia**
@@ -92,9 +88,11 @@ Este  proyecto es interesante porque ...
 
 
 
-### Etapa 3: Problemas identificados
+### Etapa 3: Problemas identificad
 
-(que consideras que no  funciona correctamente y por qué )
+Un fallo que no  pude arreglar fue que, al perder las tres vidas por chocar el coche contra los arbustos, el juego no te lleva a la escena de reinicio de videojuego por haber perdido la partida, y realmente no sé porqué.
+Tampoco sé por qué  cuando estás en la escena de reinicio y le das al botón te lleva a la escena de juego  pero no se inicia automáticamente.
+Otro fallo es la música,  en ajustes al elegir la música 2 no se escucha, es un problema que tengo desde hace meses y no sé cómo solucionarlo.
 
 
 
