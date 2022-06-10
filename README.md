@@ -49,17 +49,7 @@ La historia de mi videojuego trata de que; una noche, un ladrón entra en una gr
 
 
 
-# 3. Metodología
-
-- Realización de eventos a partir de utilizar teclas de ratón:  
-Utilizo las teclas (flechas derecha e izquierda) para mover el coche hacia los lados.
-
-- Fondo infinito: 
-Lo utilizo para la carretera del nivel 1.
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
+# 3. Metodologa 
 
 ### Etapa 1: Ideación de proyecto
 
@@ -98,11 +88,7 @@ Otro fallo es la música,  en ajustes al elegir la música 2 no se escucha, es u
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+Me ha gustado mucho aprender a manejar hippani y a crear un videojuego, pero ha sido difícil y muy lento. Creo que si hubiese sabido manejarlo más rápido hubiera podido llega a crear diferentes niveles y terminar el juego.
 
 
 
@@ -121,7 +107,7 @@ Otro fallo es la música,  en ajustes al elegir la música 2 no se escucha, es u
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+-  Photoshop
 
 
 
@@ -129,4 +115,4 @@ Otro fallo es la música,  en ajustes al elegir la música 2 no se escucha, es u
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
