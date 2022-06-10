@@ -78,11 +78,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
-
+- Orientado a  un público juvenil de  entre  9-15 años.
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
