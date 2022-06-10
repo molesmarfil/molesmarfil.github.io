@@ -74,7 +74,10 @@ Como motivación principal tenía la de hacer un videojuego basado en una de mis
 o- Vídeo:  el vídeo de configuración es el trailer de la película en la que esta basado el videojuego, no es el tutorial de grabación de pantalla sobre el juego orque he tenido problemas con la grabación y no se guardaba.
 - Instrucciones: antes de iniciar el juego hay un panel con unas instrucciones para manejar el coche y evitar chocar, como mejora podría haber hecho un contador con las 3 vidas que hay en el videojuego.
 - Menú: en el aparte de encontrar lo anteriormente descrito, hay un botón para dejar el sonido o quitarlo.
-- Galería de fotos: he organizado en sucarpetas todos los botones, imágenes, y sonidos utilizados.
+- Galería de fotos: organicé en carpetas todos los botones, imagenes, sonitdos, etc que utilicé.
+
+En el apartado de juego, coloqué un fondo infinito con tres obstáculos los cuales hay que rodear o perderás la partida y tendrás que volver a empezar. Si consigues esquivarlos podrás pasar al siguiente nivel o si lo deseas, volver a jugar el primer nivel.
+Como primera idea quise hacer una historia sobre lo que pasó en la granja pero no me dió tiempo, pensé primero en incluirla en el menú, pero vi mejor dejarla en el apartado de juego y dar la opción de saltar la historia con un botón.
 
 
 ### Etapa 3: Problemas identificad
