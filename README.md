@@ -70,11 +70,7 @@ Como motivación principal tenía la de hacer un videojuego basado en una de mis
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: Este juego comienza con una introducción , después te lleva a un menú, donde puedes elegir jugar, ver los diferentes niveles o  ver los créditos. Siempre que 
 
 
 
@@ -88,21 +84,22 @@ Otro fallo es la música,  en ajustes al elegir la música 2 no se escucha, es u
 
 # 4. Conclusiones 
 
-Me ha gustado mucho aprender a manejar hippani y a crear un videojuego, pero ha sido difícil y muy lento. Creo que si hubiese sabido manejarlo más rápido hubiera podido llega a crear diferentes niveles y terminar el juego.
+Me ha gustado mucho aprender a manejar hippani y a crear un videojuego, pero ha sido difícil y muy lento. Creo que si hubiese sabido manejarlo más rápido hubiera podido llega a crear diferentes niveles y terminar el juego. Pero como conclusión final diré que estoy orgullosa de haber trabajado tanto aunque sea un  nivel muy básica, es más de lo que sabía.
 
 
 
 # 5 Referencias 
-
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Como referncia principal he tenido la película "Una pelicula de huevos", y el resto de imágenes y dibujos han girado en torno a esa base.
+
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Toothbrush-DNCE    /     NDA- Billie Elish
+* Imágenes:  dibujos aniamdos de internet, intercalados con algunos dibujos que he creado yo a través de photoshop.
+* Tipografía: Arial Black
+
 
 **Herramientas utilizadas**
 
