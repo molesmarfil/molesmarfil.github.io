@@ -70,8 +70,11 @@ Como motivación principal tenía la de hacer un videojuego basado en una de mis
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego: Este juego comienza con una introducción , después te lleva a un menú, donde puedes elegir jugar, ver los diferentes niveles o  ver los créditos. Siempre que 
-
+- Juego: Este juego comienza con una introducción , después te lleva a un menú, donde puedes elegir jugar, ver los diferentes niveles o  ver los créditos. Siempre que salgas del menú y vayas a otra página habrá un botón de volver atrás. En configuración se podrá cambiar el volumen de la canción sonante y ver el video con su respectivo volumen
+o- Vídeo:  el vídeo de configuración es el trailer de la película en la que esta basado el videojuego, no es el tutorial de grabación de pantalla sobre el juego orque he tenido problemas con la grabación y no se guardaba.
+- Instrucciones: antes de iniciar el juego hay un panel con unas instrucciones para manejar el coche y evitar chocar, como mejora podría haber hecho un contador con las 3 vidas que hay en el videojuego.
+- Menú: en el aparte de encontrar lo anteriormente descrito, hay un botón para dejar el sonido o quitarlo.
+- Galería de fotos: he organizado en sucarpetas todos los botones, imágenes, y sonidos utilizados.
 
 
 ### Etapa 3: Problemas identificad
